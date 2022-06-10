@@ -9,4 +9,3 @@ int main()
 	printf("max = %d\n",max(1,2));
 	return 0;
 }
-
